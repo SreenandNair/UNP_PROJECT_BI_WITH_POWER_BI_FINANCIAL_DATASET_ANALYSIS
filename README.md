@@ -1,6 +1,6 @@
 # UNP_PROJECT_BI_WITH_POWER_BI_FINANCIAL_DATASET_ANALYSIS
 
-This Power BI project focuses on analyzing the financial performance of a company using revenue, profit, discounts, units sold, and product-related data.
+I did this project in collaboration with UNP,this Power BI project focuses on analyzing the financial performance of a company using revenue, profit, discounts, units sold, and product-related data.
 The dashboard includes KPI cards that provide a quick overview of total revenue, total profit, gross sales, discounts, units sold, and profit margin percentage.
 Multiple report pages were created to analyze revenue trends, profit performance, discount impact, product sales, and country-wise business performance.
 The project also includes break-even analysis and product life cycle analysis to understand contribution margins and seasonal product demand.
